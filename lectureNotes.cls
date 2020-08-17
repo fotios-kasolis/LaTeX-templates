@@ -61,5 +61,5 @@
 \titleformat{\subsection}[runin]{\normalfont}{\normalfont\bfseries\thesubsection}{0.5em}{}
 
 % ENUMERATIONS
-\usepackage{enumitem}
+\RequirePackage{enumitem}
 \setlist[itemize]{leftmargin=*}
